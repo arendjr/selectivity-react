@@ -1,5 +1,4 @@
 # selectivity-react
-React-wrapper for Selectivity.js
 
 This is a simple React-wrapper for [Selectivity.js](https://arendjr.github.io/selectivity/).
 
