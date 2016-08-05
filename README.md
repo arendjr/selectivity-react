@@ -1,5 +1,3 @@
-# selectivity-react
+# Deprecated
 
-This is a simple React-wrapper for [Selectivity.js](https://arendjr.github.io/selectivity/).
-
-This wrapper requires React.js v0.14 and is currently only intended for use with Browserify. Improvements and suggestions are welcome :)
+This project is deprecated: React support has been integrated into the main Selectivity project: https://github.com/arendjr/selectivity
